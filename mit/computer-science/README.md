@@ -9,7 +9,7 @@ MIT YouTube Courses - A Preliminar List
 | MIT 6.8300: Advances in Computer Vision                                            | [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Computer vision techniques, deep learning, image processing, neural networks | Prof. Vincent Sitzmann                      |                                                                                                                |
 | MIT 6.1200J: Mathematics for Computer Science                                      | [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Discrete mathematics, probability, combinatorics, graph theory               | Prof. Erik Demaine, Dr. Zachary Abel        |                                                                                                                |
 | MIT 18.S191: Introduction to Computational Thinking                                | [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) | Computational modeling, simulations, data visualization, Julia programming   | Grant Sanderson (3Blue1Brown), Alan Edelman |                                                                                                                |
-| MIT 6.0001: Introduction to Computer Science and Programming in Python (Fall 2008) | [Playlist](https://www.youtube.com/playlist?list=PL4C4720A6F225E074)                 | Python basics, problem-solving, algorithmic thinking                         | Prof. John Guttag                           | ([YouTube][1], [GitHub][2], [YouTube][3], [YouTube][4], [MIT OpenCourseWare][5], [Wikipedia][6], [YouTube][7]) |
+| MIT 6.0001: Introduction to Computer Science and Programming in Python (Fall 2008) | [Playlist](https://www.youtube.com/playlist?list=PL4C4720A6F225E074)                 | Python basics, problem-solving, algorithmic thinking                         | Prof. John Guttag                           | |
 
 [1]: https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7&utm_source=chatgpt.com "MIT 6.00SC Introduction to Computer Science and Programming"
 [2]: https://github.com/Developer-Y/cs-video-courses?utm_source=chatgpt.com "List of Computer Science courses with video lectures. - GitHub"
@@ -18,4 +18,6 @@ MIT YouTube Courses - A Preliminar List
 [5]: https://ocw.mit.edu/?utm_source=chatgpt.com "MIT OpenCourseWare | Free Online Course Materials"
 [6]: https://en.wikipedia.org/wiki/3Blue1Brown?utm_source=chatgpt.com "3Blue1Brown"
 [7]: https://www.youtube.com/playlist?list=PL4C4720A6F225E074&utm_source=chatgpt.com "MIT 6.00 Intro to Computer Science & Programming, Fall 2008"
+
+([YouTube][1], [GitHub][2], [YouTube][3], [YouTube][4], [MIT OpenCourseWare][5], [Wikipedia][6], [YouTube][7]) 
 
