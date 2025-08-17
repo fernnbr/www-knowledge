@@ -1,5 +1,8 @@
-MIT OpenCourseWare
+> MIT OpenCourseWare
 https://www.youtube.com/@mitocw/playlists
+
+> MIT 6.00 Introduction to Computer Science and Programming, Fall 2008
+https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
 
 
 
